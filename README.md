@@ -1,14 +1,8 @@
-##### Hexlet tests and linter status:
-[![Linter Status](https://github.com/AlexanderKireev/java-project-lvl1/workflows/Make-build/badge.svg)](https://github.com/AlexanderKireev/java-project-lvl1/actions)
-[![Actions Status](https://github.com/AlexanderKireev/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/AlexanderKireev/)
-[![Maintainability](https://api.codeclimate.com/v1/badges/39897ff67dcef7944de2/maintainability)](https://codeclimate.com/github/AlexanderKireev/java-project-lvl1/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/39897ff67dcef7944de2/test_coverage)](https://codeclimate.com/github/AlexanderKireev/java-project-lvl1/test_coverage)
+
 ## Проект "Игры разума" ("Brain Games")
 Выполнен в рамках обучения в компании "Хекслет" ("Hexlet Ltd.") на курсе java-программирования.
 
-Принят: 18 мая 2022 года. Студент: Киреев Александр. Куратор: Серов Андрей ("Hexlet Ltd.").
 
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=java-package)
 
 Проект представлен пятью играми: "Проверка на чётность", "Калькулятор", "НОД", "Арифметическая прогрессия", "Простое ли число?"
 
@@ -49,14 +43,3 @@ Let's try again, Bill!
 ```
 Первые четыре шага выполнения проекта посвящены обучению настройки окружения и реппозитория.
 
-Дальнейшие пошаговые демонстрации проекта представлены ниже:
-#### Step 5 of Project:
-[![asciicast](https://asciinema.org/a/488451.svg)](https://asciinema.org/a/488451)
-#### Step 6 of Project:
-[![asciicast](https://asciinema.org/a/488478.svg)](https://asciinema.org/a/488478)
-#### Step 7 of Project:
-[![asciicast](https://asciinema.org/a/488494.svg)](https://asciinema.org/a/488494)
-#### Step 8 of Project:
-[![asciicast](https://asciinema.org/a/488678.svg)](https://asciinema.org/a/488678)
-#### Final Step 9 of Project:
-[![asciicast](https://asciinema.org/a/488679.svg)](https://asciinema.org/a/488679)
